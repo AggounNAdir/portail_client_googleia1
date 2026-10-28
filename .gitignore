@@ -1,0 +1,15 @@
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+*.log
+*.db
+*.db-shm
+*.db-wal
+.DS_Store
+build/
+dist/
+.env
